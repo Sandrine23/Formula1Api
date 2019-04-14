@@ -1,2 +1,2 @@
 # Formula1Api
-Simple Angular 2+ application
+Simple AngularJS + TypeScript application
